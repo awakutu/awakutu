@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about Javascript, Education, and Disability 
 - 📫 How to reach me: Email me at **rizkytrisulistyo@gmail.com**
-- ⚡ Fun fact: Still single (maybe) hehe
 
 ### Technologies
 <p>
