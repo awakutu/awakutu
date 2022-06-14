@@ -10,9 +10,6 @@
 </p>
 
 ### Personal Stuff
-- 🔭 I’m currently working on [IDS Indonesia](https://ids.co.id/)
-- 🌱 I’m currently learning Web Development
-- 💬 Ask me about Javascript, Education, and Disability 
 - 📫 How to reach me: Email me at **rizkytrisulistyo@gmail.com**
 
 ### Technologies
